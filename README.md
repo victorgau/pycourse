@@ -16,7 +16,7 @@
 |1|Python初步|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|
 |2|Python基礎(1)|Python基本資料型態介紹及程式設計的進一步說明。|
 |3|Python基礎(2)|Python基本容器型別及基本語法介紹。|
-|4|Python爬蟲|介紹如何使用requests抓取資料，使用BeautifulSoup剖析資料。|
+|4|Python爬蟲|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
 |5|資料分析簡介(1)|Numpy, MatPlotLib, Pandas簡介。|
 |6|資料分析簡介(2)|Pandas進一步的使用說明。|
 |7|Python視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
