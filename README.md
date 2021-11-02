@@ -19,8 +19,8 @@
 |4|Python基礎(3)|Python基本語法(`Loops`,`Functions`,`If Statements`,`Exception Handling`)介紹。|
 |5|網路爬蟲|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
 |6|資料分析(1)|Numpy, MatPlotLib, Pandas簡介。|
-|7|資料分析(2)|Pandas進一步的使用說明。|
-|8|資料分析(3)|Pandas進一步的使用說明。|
+|7|資料分析(2)|Pandas基礎。|
+|8|資料分析(3)|Pandas進階。|
 |9|視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
 |10|地圖繪製|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
 |11|網頁實作|學習如何使用Flask製作網頁。|
