@@ -14,22 +14,25 @@
 ||課程名稱|內容說明|
 |:-:|:-|:-|
 |1|Python初步|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|
-|2|Python基礎(1)|Python基本資料型態介紹及程式設計的進一步說明。|
-|3|Python基礎(2)|Python基本容器型別及基本語法介紹。|
-|4|Python爬蟲|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
-|5|資料分析簡介(1)|Numpy, MatPlotLib, Pandas簡介。|
-|6|資料分析簡介(2)|Pandas進一步的使用說明。|
-|7|Python視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
-|8|地圖繪製|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
-|9|網頁實作|學習如何使用Flask製作網頁。|
-|10|Line機器人|實作Line機器人|
-|11|Python影像處理|學習如何使用Python來做影像處理，主要使用pillow套件。|
-|12|Python量化投資|介紹抓取資料、選股、回測等。|
-|13|Python行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
-|14|Python電腦視覺|OpenCV使用簡介。|
-|15|Python機器學習|Scikit-Learn使用簡介。|
-|16|Python深度學習|Keras使用簡介。|
-|17|Python物聯網|Raspberry Pi 簡介。|
+|2|Python基礎(1)|簡介Python並進一步說明如何用Python做程式設計。|
+|3|Python基礎(2)|Python基本資料型態(`int`,`float`,`bool`,`str`)及基本容器型別(`list`,`tuple`,`dict`,`set`)介紹。|
+|4|Python基礎(3)|Python基本語法(`Loops`,`Functions`,`If Statements`,`Exception Handling`)介紹。|
+|5|Python爬蟲|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
+|6|資料分析簡介(1)|Numpy, MatPlotLib, Pandas簡介。|
+|7|資料分析簡介(2)|Pandas進一步的使用說明。|
+|8|資料分析簡介(3)|Pandas進一步的使用說明。|
+|9|Python視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
+|10|地圖繪製|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
+|11|網頁實作|學習如何使用Flask製作網頁。|
+|12|Line機器人|實作Line機器人|
+|13|Python影像處理|學習如何使用Python來做影像處理，主要使用pillow套件。|
+|14|Python量化投資|介紹抓取資料、選股、回測等。|
+|15|Python行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
+|16|Python電腦視覺|OpenCV使用簡介。|
+|17|Python機器學習|Scikit-Learn使用簡介。|
+|18|Python深度學習(1)|深度學習簡介、Keras使用簡介(實作NN)。|
+|19|Python深度學習(2)|Keras使用簡介(實作CNN, RNN)。|
+|20|Python物聯網|Raspberry Pi 簡介。|
 
 ## 關於唯客學院
 
