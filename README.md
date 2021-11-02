@@ -27,11 +27,11 @@
 |12|Line機器人|實作Line機器人|
 |13|Python影像處理|學習如何使用Python來做影像處理，主要使用pillow套件。|
 |14|Python量化投資|介紹抓取資料、選股、回測等。|
-|15|Python行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
+|15|行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
 |16|Python電腦視覺|OpenCV使用簡介。|
 |17|Python機器學習|Scikit-Learn使用簡介。|
-|18|Python深度學習(1)|深度學習簡介、Keras使用簡介(實作NN)。|
-|19|Python深度學習(2)|Keras使用簡介(實作CNN, RNN)。|
+|18|深度學習(1)|深度學習簡介、Keras使用簡介(實作NN)。|
+|19|深度學習(2)|Keras使用簡介(實作CNN, RNN)。|
 |20|Python物聯網|Raspberry Pi 簡介。|
 
 ## 關於唯客學院
