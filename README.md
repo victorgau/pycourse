@@ -1,14 +1,6 @@
 # Python基礎與應用實務
 
-## 關於唯客學院：
-
-* [唯客學院網址](http://www.vcdemy.com)
-* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
-* [唯客學院線上課程](https://khpy.teachable.com)
-
-## 課程簡介
-
-這門課程主要會藉由實作引導大家開始使用Python來解決問題！
+這門課主要會藉由實作引導大家開始使用Python來解決問題！
 
 ## 適合對象
 
@@ -38,3 +30,9 @@
 |15|Python機器學習|Scikit-Learn使用簡介。|
 |16|Python深度學習|Keras使用簡介。|
 |17|Python物聯網|Raspberry Pi 簡介。|
+
+## 關於唯客學院
+
+* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院線上課程](https://khpy.teachable.com)
