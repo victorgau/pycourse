@@ -14,9 +14,9 @@
 ||課程名稱|內容說明|
 |:-:|:-|:-|
 |1|Python初步|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|
-|2|<nobr>Python基礎(1)</nobr>|簡介Python並進一步說明如何用Python做程式設計。|
+|2|Python基礎(1)|簡介Python並進一步說明如何用Python做程式設計。|
 |3|Python基礎(2)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。|
-|4|Python基礎(3)|Python基本語法(`Loops`,`Functions`,`If Statements`,`Exception Handling`)介紹。|
+|4|Python基礎(3)|Python基本語法(`Loops`, `Functions`, `If Statements`, `Exception Handling`)介紹。|
 |5|網路爬蟲|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
 |6|資料分析(1)|Numpy, MatPlotLib, Pandas簡介。|
 |7|資料分析(2)|Pandas基礎。|
