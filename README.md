@@ -27,7 +27,7 @@
 |12|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
 |13|網頁實作|學習如何使用Flask製作網頁。|
 |14|Line機器人|實作Line機器人|
-|15|影像處理|學習如何使用Python來做影像處理，主要使用pillow套件。|
+|15|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。|
 |16|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。|
 |17|量化投資|學習如何抓取資料、選股、及回測等。|
 |18|行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
