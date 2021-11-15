@@ -19,9 +19,9 @@
 |4|[Python基礎(3)](https://github.com/victorgau/khpy_python_basics)|Python基本語法(`Loops`, `Functions`, `If Statements`, `Exception Handling`)介紹。|
 |5|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|
 |6|[網路爬蟲](https://github.com/victorgau/khpy_web_crawler_intro)|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。|
-|7|資料分析(1)|Numpy, MatPlotLib, Pandas簡介。|
-|8|資料分析(2)|Pandas基礎。|
-|9|資料分析(3)|Pandas進階。|
+|7|[資料分析(1)](https://github.com/victorgau/khpy_data_analysis_intro)|Numpy, MatPlotLib, Pandas簡介。|
+|8|[資料分析(2)](https://github.com/victorgau/khpy_pandas_intro)|Pandas基礎。|
+|9|[資料分析(3)](https://github.com/victorgau/khpy_pandas_intro)|Pandas進階。|
 |10|資料儲存|序列化及資料庫簡介。|
 |11|視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
 |12|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
@@ -31,7 +31,7 @@
 |16|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。|
 |17|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。|
 |18|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。|
-|19|電腦視覺|OpenCV使用簡介。|
+|19|[電腦視覺](https://github.com/victorgau/khpy_opencv_intro)|OpenCV使用簡介。|
 |20|自然語言處理|NLTK及spaCy使用簡介。|
 |21|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。|
 |22|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。|
