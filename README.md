@@ -25,18 +25,18 @@
 |10|資料儲存|序列化及資料庫簡介。|
 |11|視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
 |12|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
-|13|網頁實作|學習如何使用Flask製作網頁。|
-|14|Line機器人|實作Line機器人|
+|13|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
+|14|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
 |15|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。|
 |16|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。|
-|17|量化投資|學習如何抓取資料、選股、及回測等。|
-|18|行銷資料分析|RFM分析、推薦引擎、市場資料分析等。|
+|17|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。|
+|18|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。|
 |19|電腦視覺|OpenCV使用簡介。|
 |20|自然語言處理|NLTK及spaCy使用簡介。|
-|21|機器學習|Scikit-Learn使用簡介。|
-|22|深度學習(1)|深度學習簡介、Keras使用簡介(實作NN)。|
-|23|深度學習(2)|Keras使用簡介(實作CNN, RNN)。|
-|24|物聯網|Raspberry Pi 簡介。|
+|21|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。|
+|22|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。|
+|23|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。|
+|24|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|Raspberry Pi 簡介。|
 
 ## 關於唯客學院
 
