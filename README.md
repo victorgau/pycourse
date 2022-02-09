@@ -11,9 +11,11 @@
 
 ## 課程大綱
 
+如果以學英文來做類比，基礎課程教的是單字、文法及造句；應用課程則是帶大家寫出一篇一篇的作文。
+
 ### 基礎課程
 
-每個月會重複上的課程！
+每個月會反覆從頭開始上的基礎課程！
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
@@ -22,10 +24,9 @@
 |3|[Python基礎(2)](https://github.com/victorgau/khpy_python_basics)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。||
 |4|[Python基礎(3)](https://github.com/victorgau/khpy_python_basics)|Python基本語法(`Loops`, `Functions`, `If Statements`, `Exception Handling`)介紹。||
 
-
 ### 應用課程
 
-每個禮拜一門，一直循環上的課程！
+每個禮拜選一門，一直循環上的課程！
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
