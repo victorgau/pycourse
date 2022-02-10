@@ -38,18 +38,18 @@
 |6|資料儲存|序列化及資料庫簡介。||
 |7|視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。||
 |8|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。||
-|9|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。||
-|10|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人||
-|11|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。||
-|12|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
-|13|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。||
-|14|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。||
-|15|[電腦視覺](https://github.com/victorgau/khpy_opencv_intro)|OpenCV使用簡介。||
-|16|自然語言處理(1)|NLTK使用簡介。||
-|17|自然語言處理(2)|spaCy使用簡介。||
-|18|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。||
-|19|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。||
-|20|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。||
+|9|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。||
+|10|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。||
+|11|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。||
+|12|[電腦視覺](https://github.com/victorgau/khpy_opencv_intro)|OpenCV使用簡介。||
+|13|自然語言處理(1)|NLTK使用簡介。||
+|14|自然語言處理(2)|spaCy使用簡介。||
+|15|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。||
+|16|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。||
+|17|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。||
+|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。||
+|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人||
+|20|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
 
 ### 其他
 
