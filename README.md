@@ -10,10 +10,12 @@
 * 想要讓員工迅速具備使用程式解決問題能力的公司行號。
 
 ## 講師簡介
-
-|||
-|:-:|:--|
-|<img src="https://avatars.githubusercontent.com/u/4385309?v=4" width="200">|Victor Gau<br><br>學歷：<br>美國華盛頓大學電機博士<br><br>過去經歷：<br>中山大學財管系兼任助理教授<br>台灣金融研訓院講師<br>美國微軟軟體工程師<br>|
+<table>
+<tr>
+<td><img src="https://avatars.githubusercontent.com/u/4385309?v=4" width="200"></td>
+<td>Victor Gau<br><br>學歷：<br>美國華盛頓大學電機博士<br><br>過去經歷：<br>中山大學財管系兼任助理教授<br>台灣金融研訓院講師<br>美國微軟軟體工程師<br></td>
+</tr>
+</table>
 
 ## 課程方案
 
