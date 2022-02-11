@@ -26,7 +26,11 @@
 
 ### 應用課程
 
-每個禮拜選一門，一直循環上的課程！
+每個禮拜選一個領域，實作一個小應用！
+
+應用課程以解決問題為導向，而不是以學習軟體開發為導向。
+
+#### 底下課程的學習，可以不用安裝Python
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
@@ -47,17 +51,22 @@
 |15|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。||
 |16|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。||
 |17|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。||
-|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。||
-|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人||
-|20|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
+
+#### 底下課程的學習，需在自己的電腦上安裝Python
+
+||課程名稱|內容說明|影片連結|
+|:-:|:--|:--|:--|
+|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|[範例影片](https://youtu.be/nYF3jIeq580)|
+|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|[範例影片](https://youtu.be/PakBk5F3O5w)|
 
 ### 其他
 
-我們暫時不會安排需要準備額外硬體的課程，如果大家有這一方面的需求，可以看一下我們的線上影片自學。
+我們暫時不會安排需要準備額外硬體的課程，如果大家有這一方面的需求，可以看一下我們的線上影片自學。另外，比較偏向軟體設計導向，而不是問題解決導向的課程，我們應該也會錄製一些影片，大家可以自學就好。
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
 |1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|[免費影片](https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU)|
+|2|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
 
 
 ## 曾經合作單位
