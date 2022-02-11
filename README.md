@@ -9,6 +9,30 @@
 * 想要短時間了解Python的各個面向的朋友。
 * 想要讓員工迅速具備使用程式解決問題能力的公司行號。
 
+## 課程方案
+
+上課時間：
+
+> 基礎課程都在星期一 19:00-22:00。
+
+> 應用課程都在星期四 19:00-22:00。
+
+> 遇到假日會彈性調整！
+
+上課方式：
+
+> Zoom線上授課。
+
+|方案名稱|時程|課程內容|報名連結|
+|:--|:--|:--|:--|
+|速效方案|一個月|四堂基礎課程 + 四堂應用課程|<a href="https://p.ecpay.com.tw/00DF019"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|特惠方案|三個月|四堂基礎課程 x 3 + 十二堂應用課程|<a href="https://p.ecpay.com.tw/E070BCA"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|心動方案|三個月|十二堂應用課程。|<a href="https://p.ecpay.com.tw/8390DA4"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+
+每堂課約三個小時 (19:00~22:00)！
+
+其他資訊請見唯客學院網站：http://vcdemy.com
+
 ## 課程大綱
 
 如果以學英文來做類比，基礎課程教的是單字、文法及造句；應用課程則是帶大家寫出一篇一篇的作文。
