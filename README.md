@@ -31,11 +31,11 @@
 
 > Zoom線上授課。
 
-|方案名稱|時程|課程內容|報名連結|
+|方案名稱|學費|課程內容|報名連結|
 |:--|:--|:--|:--|
-|速效方案|一個月|四堂基礎課程 + 四堂應用課程 (共約24小時)|<a href="https://p.ecpay.com.tw/00DF019"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
-|特惠方案|三個月|四堂基礎課程 x 3 + 十二堂應用課程 (共約72小時)|<a href="https://p.ecpay.com.tw/E070BCA"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
-|心動方案|三個月|十二堂應用課程 (共約36小時)|<a href="https://p.ecpay.com.tw/8390DA4"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|速效方案|$3000/一個月|四堂基礎課程 + 四堂應用課程 (共約24小時)|<a href="https://p.ecpay.com.tw/00DF019"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|特惠方案|$6000/三個月|四堂基礎課程 x 3 + 十二堂應用課程 (共約72小時)|<a href="https://p.ecpay.com.tw/E070BCA"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|心動方案|$5000/三個月|十二堂應用課程 (共約36小時)|<a href="https://p.ecpay.com.tw/8390DA4"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
 
 每堂課約三個小時 (19:00~22:00)！
 
