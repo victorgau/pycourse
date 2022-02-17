@@ -33,9 +33,9 @@
 
 |方案名稱|學費|課程內容|報名連結|
 |:--|:--|:--|:--|
-|速效方案|$3000/一個月|四堂基礎課程 + 四堂應用課程 (共約24小時)|<a href="https://p.ecpay.com.tw/00DF019"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
-|特惠方案|$6000/三個月|四堂基礎課程 x 3 + 十二堂應用課程 (共約72小時)|<a href="https://p.ecpay.com.tw/E070BCA"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
-|心動方案|$5000/三個月|十二堂應用課程 (共約36小時)|<a href="https://p.ecpay.com.tw/8390DA4"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|速效方案|$3000/一個月|四堂基礎課程 + 四堂應用課程 (共約24小時)|<a href="https://p.ecpay.com.tw/F1D6B24"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|特惠方案|$6000/三個月|四堂基礎課程 x 3 + 十二堂應用課程 (共約72小時)|<a href="https://p.ecpay.com.tw/FE6708F"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
+|心動方案|$5000/三個月|十二堂應用課程 (共約36小時)|<a href="https://p.ecpay.com.tw/4082EFA"><img src="https://payment.ecpay.com.tw/Content/themes/WebStyle20170517/images/ecgo.png" /></a>|
 
 每堂課約三個小時 (19:00~22:00)！
 
@@ -46,6 +46,8 @@
 我們會不定期招開課程說明，課程說明的時間會公布在[粉絲團](https://www.facebook.com/KHPYAcademy)上。
 
 2022/02/17 有一個[課程說明會](https://kaohsiungpy.kktix.cc/events/202202171900)，歡迎報名參加！
+
+2022/02/17: [投影片](https://reurl.cc/nEpNpD)
 
 
 ## 課程大綱
