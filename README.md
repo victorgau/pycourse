@@ -40,8 +40,8 @@
 
 ### 基礎課程
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:--|
+||課程名稱|內容說明|<img src="images/video.png" width="80">|
+|:-:|:--|:--|:-:|
 |1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|[免費課程](https://www.youtube.com/watch?v=SFa0rFkJbVI&list=PLj4JWjo5dOC6n1jxY6CfOLp1ut4JcQicv)|
 |2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|[免費課程](https://khpy.teachable.com/p/simple-python-applications)|
 |3|[Python基礎(2)](https://github.com/victorgau/khpy_python_basics)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。||
@@ -53,8 +53,8 @@
 
 #### 底下課程的學習，可以不用在自己的電腦上安裝Python
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:--|
+||課程名稱|內容說明|<img src="images/video.png" width="80">|
+|:-:|:--|:--|:-:|
 |1|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|[免費課程](https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)|
 |2|[網路爬蟲](https://github.com/victorgau/khpy_web_crawler_intro)|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。||
 |3|[資料分析(1)](https://github.com/victorgau/khpy_data_analysis_intro)|Numpy, MatPlotLib, Pandas簡介。||
@@ -77,8 +77,8 @@
 
 因為每個人電腦的差異性太大，對於初學者來說，大部分的時間有可能都會花在解決電腦的差異性上，所以在我們的線上課程裡面，不一定會有下面課程。
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:--|
+||課程名稱|內容說明|<img src="images/video.png" width="80">|
+|:-:|:--|:--|:-:|
 |18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|[範例影片](https://youtu.be/nYF3jIeq580)|
 |19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|[範例影片](https://youtu.be/PakBk5F3O5w)|
 |20|自然語言處理應用|實作語音辨識、文字轉語音等。||
@@ -87,8 +87,8 @@
 
 我們暫時不會安排需要準備額外硬體的課程，如果大家有這一方面的需求，可以看一下我們的線上影片自學。另外，比較偏向軟體設計導向，而不是問題解決導向的課程，我們應該也會錄製一些影片，大家可以自學就好。
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:--|
+||課程名稱|內容說明|<img src="images/video.png" width="80">|
+|:-:|:--|:--|:-:|
 |1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|[免費課程](https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU)|
 |2|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
 
