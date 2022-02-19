@@ -76,11 +76,11 @@
 
 因為每個人電腦的差異性太大，對於初學者來說，大部分的時間有可能都會花在解決電腦的差異性上，所以在我們的線上課程裡面，不一定會有下面課程。
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:-:|
-|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|[範例影片](https://youtu.be/nYF3jIeq580)|
-|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|[範例影片](https://youtu.be/PakBk5F3O5w)|
-|20|自然語言處理應用|實作語音辨識、文字轉語音等。||
+||課程名稱|內容說明|
+|:-:|:--|:--|
+|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
+|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
+|20|自然語言處理應用|實作語音辨識、文字轉語音等。|
 
 ### 其他
 
