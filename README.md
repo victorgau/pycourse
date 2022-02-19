@@ -48,8 +48,8 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|<a href="https://www.youtube.com/watch?v=SFa0rFkJbVI&list=PLj4JWjo5dOC6n1jxY6CfOLp1ut4JcQicv)"><img src="images/free.jpg"></a>|
-|2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|<a href="https://khpy.teachable.com/p/simple-python-applications"><img src="images/free.jpg"></a>|
+|1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|[免費課程](https://www.youtube.com/watch?v=SFa0rFkJbVI&list=PLj4JWjo5dOC6n1jxY6CfOLp1ut4JcQicv)|
+|2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|[免費課程](https://khpy.teachable.com/p/simple-python-applications)|
 |3|[Python基礎(2)](https://github.com/victorgau/khpy_python_basics)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。||
 |4|[Python基礎(3)](https://github.com/victorgau/khpy_python_basics)|Python基本語法(`Loops`, `Functions`, `If Statements`, `Exception Handling`)介紹。||
 
