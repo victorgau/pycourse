@@ -37,6 +37,17 @@
 
 如果以學英文來做類比，基礎課程教的是單字、文法及造句；應用課程則是帶大家寫出一篇一篇的作文。
 
+### 環境設定
+
+* 雲端環境 (初學者先用這個就好)
+  * [Trinket](https://trinket.io/)
+  * [Colab](https://colab.research.google.com/)
+* 本機環境 (有興趣之後再嘗試安裝)
+  * 直譯器
+    * [Anaconda](https://www.anaconda.com/products/individual)
+  * 編輯器
+    * [Visual Studio Code](https://code.visualstudio.com/)
+
 ### 基礎課程
 
 ||課程名稱|內容說明|
