@@ -27,8 +27,6 @@
 
 > 線上影音配合Zoom即時線上授課。(上課方式修正中...)
 
-其他資訊請見唯客學院網站：http://www.vcdemy.com
-
 ## 線上課程說明
 
 我們會不定期招開課程說明，課程說明的時間會公布在[粉絲團](https://www.facebook.com/KHPYAcademy)上。
