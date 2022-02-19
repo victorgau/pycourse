@@ -61,7 +61,7 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|<a href="https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45"><img src="images/free.jpg"></a>|
+|1|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|[免費課程](https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)|
 |2|[網路爬蟲](https://github.com/victorgau/khpy_web_crawler_intro)|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。||
 |3|[資料分析(1)](https://github.com/victorgau/khpy_data_analysis_intro)|Numpy, MatPlotLib, Pandas簡介。||
 |4|[資料分析(2)](https://github.com/victorgau/khpy_pandas_intro)|Pandas基礎。||
@@ -85,8 +85,8 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|<a href="https://youtu.be/nYF3jIeq580"><img src="images/sample.jpg"></a>|
-|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|<a href="https://youtu.be/PakBk5F3O5w"><img src="images/sample.jpg"></a>|
+|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|[範例影片](https://youtu.be/nYF3jIeq580)|
+|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|[範例影片](https://youtu.be/PakBk5F3O5w)|
 |20|自然語言處理應用|實作語音辨識、文字轉語音等。||
 
 ### 其他
@@ -95,7 +95,7 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|<a href="https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU"><img src="images/free.jpg"></a>|
+|1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|[免費課程](https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU)|
 |2|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
 
 
