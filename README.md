@@ -35,12 +35,13 @@
 
 ## 環境設定
 
+初學者可以考慮先用雲端的環境來學習Python，這樣只需電腦上有瀏覽器可用，就可以連上網學習Python！等到稍微了解Python，真的覺得有興趣之後，再嘗試在本機上安裝Python環境即可！
+
 ### 雲端環境
-初學者先用這個就好，只要有瀏覽器即可，什麼都不用安裝！
 * [Trinket](https://trinket.io/)
 * [Colab](https://colab.research.google.com/)
+
 ### 本機環境
-已經稍微了解Python，真的覺得有興趣之後，再去安裝即可！
 * 直譯器
   * 推薦安裝[Anaconda](https://www.anaconda.com/products/individual) ==> Python懶人包
 * 編輯器
