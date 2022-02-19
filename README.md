@@ -33,20 +33,25 @@
 
 2022/02/17: [投影片](https://reurl.cc/nEpNpD)
 
+## 環境設定
+
+### 雲端環境
+初學者先用這個就好，只要有瀏覽器即可，什麼都不用安裝！
+* [Trinket](https://trinket.io/)
+* [Colab](https://colab.research.google.com/)
+### 本機環境
+已經稍微了解Python，真的覺得有興趣之後，再去安裝即可！
+* 直譯器
+  * 推薦安裝[Anaconda](https://www.anaconda.com/products/individual) ==> Python懶人包
+* 編輯器
+  * Jupyter Notebook/Lab (Anaconda裡面已經內附)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+
 ## 課程大綱
 
 如果以學英文來做類比，基礎課程教的是單字、文法及造句；應用課程則是帶大家寫出一篇一篇的作文。
 
-### 環境設定
 
-* 雲端環境 (初學者先用這個就好)
-  * [Trinket](https://trinket.io/)
-  * [Colab](https://colab.research.google.com/)
-* 本機環境 (有興趣之後再嘗試安裝)
-  * 直譯器
-    * [Anaconda](https://www.anaconda.com/products/individual)
-  * 編輯器
-    * [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 基礎課程
 
