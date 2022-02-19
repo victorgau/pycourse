@@ -39,8 +39,8 @@
 
 ### 基礎課程
 
-||課程名稱|內容說明|影片連結|
-|:-:|:--|:--|:-:|
+||課程名稱|內容說明|
+|:-:|:--|:--|
 |1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|
 |2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|
 |3|[Python基礎(2)](https://github.com/victorgau/khpy_python_basics)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。|
