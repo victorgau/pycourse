@@ -21,31 +21,21 @@
 
 上課時間：
 
-> 基礎課程都在星期一 19:00-22:00。
+> 2022/02/17 的說明會後，有不少朋友表示原上課時間他們已經有行程，希望可以有其他更彈性的授課方式。
 
-> 應用課程都在星期四 19:00-22:00。
+> 目前我們在修改授課的方式，修改完後會更新到這裡來。
 
-> 遇到假日會彈性調整！
+> 謝謝大家。
 
 上課方式：
 
-> Zoom線上授課。
-
-|方案名稱|學費|課程內容|報名連結|
-|:--|:--|:--|:--|
-|速效方案|$3000/一個月|四堂基礎課程 + 四堂應用課程 (共約24小時)|<a href="https://p.ecpay.com.tw/F1D6B24"><img src="images/blue.png" /></a>|
-|特惠方案|$6000/三個月|四堂基礎課程 x 3 + 十二堂應用課程 (共約72小時)|<a href="https://p.ecpay.com.tw/FE6708F"><img src="images/green.png" /></a>|
-|心動方案|$5000/三個月|十二堂應用課程 (共約36小時)|<a href="https://p.ecpay.com.tw/4082EFA"><img src="images/orange.png" /></a>|
-
-每堂課約三個小時 (19:00~22:00)！
+> 線上影音配合Zoom即時線上授課。(上課方式修正中...)
 
 其他資訊請見唯客學院網站：http://www.vcdemy.com
 
 ## 線上課程說明
 
 我們會不定期招開課程說明，課程說明的時間會公布在[粉絲團](https://www.facebook.com/KHPYAcademy)上。
-
-2022/02/17 有一個[課程說明會](https://kaohsiungpy.kktix.cc/events/202202171900)，歡迎報名參加！
 
 2022/02/17: [投影片](https://reurl.cc/nEpNpD)
 
@@ -56,24 +46,22 @@
 
 ### 基礎課程
 
-每個月會反覆從頭開始上的基礎課程！
-
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|[免費影片](https://www.youtube.com/watch?v=SFa0rFkJbVI&list=PLj4JWjo5dOC6n1jxY6CfOLp1ut4JcQicv)|
-|2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|[免費影片](https://khpy.teachable.com/p/simple-python-applications)|
+|1|[Python初步](https://github.com/victorgau/khpy_python_beginners)|使用turtle繪圖來學習`程式設計概念`及`Python基本語法`。|<a href="https://www.youtube.com/watch?v=SFa0rFkJbVI&list=PLj4JWjo5dOC6n1jxY6CfOLp1ut4JcQicv)"><img src="images/free.jpg"></a>|
+|2|[Python基礎(1)](https://github.com/victorgau/khpy_python_basics)|簡介Python並進一步說明如何用Python做程式設計。|<a href="https://khpy.teachable.com/p/simple-python-applications"><img src="images/free.jpg"></a>|
 |3|[Python基礎(2)](https://github.com/victorgau/khpy_python_basics)|Python基本資料型態(`int`, `float`, `bool`, `str`)及基本容器型別(`list`, `tuple`, `dict`, `set`)介紹。||
 |4|[Python基礎(3)](https://github.com/victorgau/khpy_python_basics)|Python基本語法(`Loops`, `Functions`, `If Statements`, `Exception Handling`)介紹。||
 
 ### 應用課程
 
-應用課程以解決問題為導向，每個禮拜選一個領域，實作一個小應用！應用課程涵蓋的領域包含了網路爬蟲、電腦視覺、自然語言處理、機器學習、深度學習、人工智慧等等。
+應用課程以解決問題為導向，課程涵蓋了網路爬蟲、電腦視覺、自然語言處理、機器學習、深度學習、人工智慧等等。
 
 #### 底下課程的學習，可以不用在自己的電腦上安裝Python
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|[免費影片](https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)|
+|1|[Line訊息通知服務](https://github.com/victorgau/khpy_linenotify_intro)|Line Notify使用簡介|<a href="https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45"><img src="images/free.jpg"></a>|
 |2|[網路爬蟲](https://github.com/victorgau/khpy_web_crawler_intro)|學習如何使用requests抓取資料、使用BeautifulSoup剖析資料等。||
 |3|[資料分析(1)](https://github.com/victorgau/khpy_data_analysis_intro)|Numpy, MatPlotLib, Pandas簡介。||
 |4|[資料分析(2)](https://github.com/victorgau/khpy_pandas_intro)|Pandas基礎。||
@@ -97,8 +85,8 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|[範例影片](https://youtu.be/nYF3jIeq580)|
-|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|[範例影片](https://youtu.be/PakBk5F3O5w)|
+|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|<a href="https://youtu.be/nYF3jIeq580"><img src="images/sample.jpg"></a>|
+|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|<a href="https://youtu.be/PakBk5F3O5w"><img src="images/sample.jpg"></a>|
 |20|自然語言處理應用|實作語音辨識、文字轉語音等。||
 
 ### 其他
@@ -107,7 +95,7 @@
 
 ||課程名稱|內容說明|影片連結|
 |:-:|:--|:--|:--|
-|1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|[免費影片](https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU)|
+|1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|<a href="https://www.youtube.com/playlist?list=PLj4JWjo5dOC6Ec1GVeNoOMWilvKt99LlU"><img src="images/free.jpg"></a>|
 |2|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。||
 
 
@@ -120,3 +108,7 @@
 * [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
+
+## 聯絡我們
+
+Email: khpyacademy@gmail.com
