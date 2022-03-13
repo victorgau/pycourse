@@ -11,15 +11,21 @@
 
 ## 課程方案
 
-上課時間：
-
-> 2022/02/17 的說明會後，有不少朋友表示原上課時間他們已經有行程，希望可以有其他更彈性的授課方式。目前我們在思考更彈性的時間安排，思考完後會更新到這裡來。
-
-> 先前已經報名的朋友們，我們已經先退刷您們的信用卡。新的課程時間安排完後，我們會更新在這裡，也會另行通知先前已有報名的朋友們。造成不便之處，萬分感到抱歉！
-
 上課方式：
 
-> 線上影音配合Zoom即時線上授課。(上課方式修正中...)
+> 線上影音配合Zoom即時線上授課。
+
+上課時間：
+
+> 如果感興趣，請加入Line社群討論！
+
+[唯客學院 Line 社群連結](https://line.me/ti/g2/UrK5XLg4zqzr-yiEjHG3mwGGnAPjnAHTGcKqew?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+[![唯客學院QRCode](images/qrcode.jpg)](https://line.me/ti/g2/UrK5XLg4zqzr-yiEjHG3mwGGnAPjnAHTGcKqew?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+上課費用：
+
+> 即時課程 $1600/8hr (暫定)
 
 ## 線上課程說明
 
@@ -29,7 +35,7 @@
 
 ## 環境設定
 
-初學者可以考慮先用雲端的環境來學習Python，這樣只需電腦上有瀏覽器可用，就可以連上網學習Python！等到稍微了解Python，真的覺得有興趣之後，再嘗試在本機上安裝Python環境即可！
+初學者可以考慮先用雲端的環境來學習Python，這樣只需電腦上有瀏覽器，就可以連上網學習Python！等到稍微了解Python，真的覺得有興趣之後，再嘗試在本機上安裝Python環境即可！
 
 ### 雲端環境
 * [Trinket](https://trinket.io/)
