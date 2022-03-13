@@ -9,14 +9,6 @@
 * 想要短時間了解Python的各個面向的朋友。
 * 想要讓員工迅速具備使用程式解決問題能力的公司行號。
 
-## 講師簡介
-<table>
-<tr>
-<td><img src="https://avatars.githubusercontent.com/u/4385309?v=4" width="200"></td>
-<td>Victor Gau<br><br>學歷：<br>美國華盛頓大學電機博士<br><br>過去經歷：<br>中山大學財管系兼任助理教授<br>台灣金融研訓院講師<br>美國微軟軟體工程師<br></td>
-</tr>
-</table>
-
 ## 課程方案
 
 上課時間：
@@ -91,13 +83,14 @@
 
 #### 底下課程的學習，需在自己的電腦上安裝Python
 
-因為每個人電腦的差異性太大，對於初學者來說，大部分的時間有可能都會花在解決電腦的差異性上，所以在我們的線上課程裡面，不一定會有下面課程。
+在自己的電腦上面安狀完Python的環境後，可以嘗試底下的應用喔！
 
 ||課程名稱|內容說明|
 |:-:|:--|:--|
 |18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
 |19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
 |20|自然語言處理應用|實作語音辨識、文字轉語音等。|
+|21|Streamlit簡介|使用最簡單的方式讓自己的服務上線吧！|
 
 ### 其他
 
