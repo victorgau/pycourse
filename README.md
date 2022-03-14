@@ -37,6 +37,8 @@
 
 初學者可以考慮先用雲端的環境來學習Python，這樣只需電腦上有瀏覽器，就可以連上網學習Python！等到稍微了解Python，真的覺得有興趣之後，再嘗試在本機上安裝Python環境即可！
 
+> 要學會使用Python (開始編寫/執行程式並記錄學習歷程)，不一定在自己的電腦上安裝Python直譯器喔！但是如果您要在自己的電腦上執行含有特定UI的程式、或者您要啟動一個網頁伺服器、又或您要寫程式在自己的電腦上做自動化等等，那麼您可能就真的需要在自己的電腦上安裝Python環境了！
+
 ### 雲端環境
 * [Trinket](https://trinket.io/)
 * [Colab](https://colab.research.google.com/)
@@ -89,11 +91,9 @@
 
 #### 底下課程的學習，需在自己的電腦上安裝Python
 
-在自己的電腦上面安狀完Python的環境後，可以嘗試底下的應用喔！
-
 ||課程名稱|內容說明|
 |:-:|:--|:--|
-|18|[網頁實作](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
+|18|[Flask簡介](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
 |19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
 |20|自然語言處理應用|實作語音辨識、文字轉語音等。|
 |21|Streamlit簡介|使用最簡單的方式讓自己的服務上線吧！|
