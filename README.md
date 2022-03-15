@@ -79,26 +79,29 @@
 |4|[資料分析(2)](https://github.com/victorgau/khpy_pandas_intro)|Pandas基礎。|
 |5|[資料分析(3)](https://github.com/victorgau/khpy_pandas_intro)|Pandas進階。|
 |6|資料儲存|序列化及資料庫簡介。|
-|7|視覺化|MatPlotLib, Seaborn, Plotly的使用簡介。|
-|8|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
-|9|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。|
-|10|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。|
-|11|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。|
-|12|[電腦視覺](https://github.com/victorgau/khpy_opencv_intro)|OpenCV使用簡介。|
-|13|自然語言處理(1)|NLTK使用簡介。|
-|14|自然語言處理(2)|spaCy使用簡介。|
-|15|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。|
-|16|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。|
-|17|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。|
+|7|視覺化 (1)|MatPlotLib簡介。|
+|8|視覺化 (2)|Seaborn簡介。|
+|9|視覺化 (3)|Plotly簡介。|
+|10|視覺化 (4)|Bokeh簡介。|
+|11|[地圖繪製](https://github.com/victorgau/khpy_folium_intro)|學習如何使用Folium做地圖視覺化並製作地圖網頁。|
+|12|[量化投資](https://github.com/victorgau/khpy_quant_intro)|學習如何抓取資料、選股、及回測等。|
+|13|[行銷資料分析](https://github.com/victorgau/khpy_marketing_analytics_intro)|RFM分析、推薦引擎、市場資料分析等。|
+|14|[影像處理](https://github.com/victorgau/khpy_image_processing_intro)|學習如何使用Python來做影像處理，主要使用pillow套件。|
+|15|[電腦視覺](https://github.com/victorgau/khpy_opencv_intro)|OpenCV使用簡介。|
+|16|自然語言處理(1)|NLTK使用簡介。|
+|17|自然語言處理(2)|spaCy使用簡介。|
+|18|[機器學習](https://github.com/victorgau/khpy_sklearn_intro)|Scikit-Learn使用簡介。|
+|19|[深度學習(1)](https://github.com/victorgau/khpy_keras_intro)|深度學習簡介、Keras使用簡介(實作NN)。|
+|20|[深度學習(2)](https://github.com/victorgau/khpy_keras_intro)|Keras使用簡介(實作CNN, RNN)。|
 
 #### 底下課程的學習，需在自己的電腦上安裝Python環境
 
 ||課程名稱|內容說明|
 |:-:|:--|:--|
-|18|[Flask簡介](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
-|19|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
-|20|自然語言處理應用|實作語音辨識、文字轉語音等。|
-|21|Streamlit簡介|使用最簡單的方式讓自己的服務上線吧！|
+|21|[Flask簡介](https://github.com/victorgau/khpy_flask_intro)|學習如何使用Flask製作網頁。|
+|22|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
+|23|自然語言處理應用|實作語音辨識、文字轉語音等。|
+|24|Streamlit簡介|使用最簡單的方式讓自己的服務上線吧！|
 
 ### 其他
 
