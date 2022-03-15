@@ -102,6 +102,9 @@
 |22|[Line機器人](https://github.com/victorgau/khpy_linebot_intro)|實作Line機器人|
 |23|自然語言處理應用|實作語音辨識、文字轉語音等。|
 |24|Streamlit簡介|使用最簡單的方式讓自己的服務上線吧！|
+|25|自動化排程簡介|簡單說明如何自動執行程式。|
+|26|Selenium簡介|簡單說明如何做Web自動化測試。|
+|27|PyAutoGui簡介|簡單說明如何做UI自動化。|
 
 ### 其他
 
