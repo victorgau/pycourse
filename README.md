@@ -116,7 +116,7 @@
 |:-:|:--|:--|
 |1|[物聯網](https://github.com/victorgau/khpy_rpi_intro)|主要說明如何安裝及設定RPi，並示範如何從工作電腦上進行RPi的遠端開發。|
 |2|物件導向程式設計|介紹類別、物件、封裝、繼承、多型等等概念。|
-|3|[共同基金分析]((https://github.com/victorgau/khpy_mf_analysis))|分析共同基金績效。對初學者來說是很好的Pandas跟set的應用範例。|
+|3|[共同基金分析](https://github.com/victorgau/khpy_mf_analysis)|分析共同基金績效。對初學者來說是很好的Pandas跟set的應用範例。|
 
 
 ## 曾經合作單位
