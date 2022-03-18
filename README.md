@@ -126,7 +126,7 @@
 ## 關於唯客學院
 
 * [唯客學院網址](http://www.vcdemy.com)
-* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院粉絲頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
 ## 聯絡我們
