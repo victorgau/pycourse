@@ -31,7 +31,7 @@
 
 ## 線上課程說明
 
-我們會不定期招開課程說明，課程說明的時間會公布在[粉絲團](https://www.facebook.com/KHPYAcademy)上。
+我們會不定期招開課程說明，課程說明的時間會公布在[粉絲專頁](https://www.facebook.com/vcdemy)上。
 
 2022/02/17: [投影片](https://reurl.cc/nEpNpD)
 
