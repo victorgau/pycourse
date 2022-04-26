@@ -123,7 +123,7 @@
 
 ## 關於唯客學院
 
-* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院首頁](http://www.vcdemy.com)
 * [唯客學院粉絲頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
